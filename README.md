@@ -1,2 +1,2 @@
-# alik
+# ALIK
 asistente animatronico humanoide con IA 
