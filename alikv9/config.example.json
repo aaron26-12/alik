@@ -1,0 +1,15 @@
+{
+  "api_key": "",
+  "serial_port": "COM3",
+  "baud_rate": 115200,
+  "model": "llama-3.3-70b-versatile",
+  "voice": "es-AR-ElenaNeural",
+  "listen_lang": "es-ES",
+  "gaze_listening": 64,
+  "gaze_speaking": 42,
+  "face_smoothing": 0.22,
+  "emotion_smoothing": 0.18,
+  "camera_index": 0,
+  "persona_name": "Aria",
+  "persona_desc": "una asistente animatrónica expresiva, cálida y social"
+}
